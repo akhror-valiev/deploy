@@ -1,5 +1,8 @@
 {
     "name": "next-js-deploy",
+    "engines": {
+        "node": "v16.13.1"
+    },
     "private": true,
     "scripts": {
         "dev": "next dev",
